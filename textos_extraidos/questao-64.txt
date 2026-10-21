@@ -1,0 +1,22 @@
+QUESTÃO 64
+
+O pêndulo de Newton pode ser constituído por cinco pêndulos idênticos suspensos em um mesmo suporte. Em um dado instante, as esferas de três pêndulos são deslocadas para a esquerda e liberadas, deslocando-se para a direita e colidindo elasticamente com as outras duas esferas, que inicialmente estavam paradas.
+
+**[FIGURA: Diagrama do Pêndulo de Newton mostrando cinco esferas suspensas por fios a um suporte horizontal. Três esferas à esquerda estão preenchidas em cinza escuro e as duas à direita estão em branco. Uma seta horizontal abaixo das três primeiras esferas indica movimento para a direita.]**
+
+O movimento dos pêndulos após a primeira colisão está representado em:
+
+**A**
+**[FIGURA: Representação do pêndulo de Newton com cinco esferas. Duas esferas cinzentas e uma branca à esquerda estão juntas e com uma seta apontando para a esquerda; no centro há uma esfera cinzenta isolada em repouso (fio vertical); à direita, uma esfera branca e uma cinzenta estão juntas com uma seta apontando para a direita.]**
+
+**B**
+**[FIGURA: Representação do pêndulo de Newton com cinco esferas. Duas esferas à esquerda (uma cinzenta e uma branca) estão juntas com seta para a esquerda; três esferas à direita (cinzenta, branca, cinzenta) estão juntas com seta para a direita.]**
+
+**C**
+**[FIGURA: Representação do pêndulo de Newton com cinco esferas. Duas esferas à esquerda (uma cinzenta e uma branca) estão paradas em contato vertical; três esferas à direita (cinzenta, branca, cinzenta) estão juntas com uma seta abaixo indicando movimento para a direita.]**
+
+**D**
+**[FIGURA: Representação do pêndulo de Newton com cinco esferas. Três esferas centrais estão em repouso vertical juntas (cinzenta, branca, cinzenta); duas esferas à direita (branca e cinzenta) estão juntas com uma seta abaixo indicando movimento para a direita.]**
+
+**E**
+**[FIGURA: Representação do pêndulo de Newton com cinco esferas. Quatro esferas à esquerda estão paradas e em contato vertical (cinzenta, branca, cinzenta, branca); uma esfera à direita (cinzenta) está afastada e suspensa por um fio inclinado, com uma seta abaixo indicando movimento para a direita.]**

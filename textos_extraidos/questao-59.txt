@@ -1,0 +1,21 @@
+QUESTÃO 59
+
+A revelação das chapas de raios X gera uma solução que contém íons prata na forma de $\text{Ag(S}_2\text{O}_3)_2^{3-}$. Para evitar a descarga desse metal no ambiente, a recuperação de prata metálica pode ser feita tratando eletroquimicamente essa solução com uma espécie adequada. O quadro apresenta semirreações de redução de alguns íons metálicos.
+
+**[FIGURA: Tabela intitulada "Semirreação de redução" com duas colunas: a primeira contém as equações químicas das semirreações de redução e a segunda contém os respectivos potenciais padrão de redução $E^0$ (V). As linhas da tabela são:
+1. $\text{Ag(S}_2\text{O}_3)_2^{3-} \text{ (aq)} + \text{e}^- \rightleftharpoons \text{Ag (s)} + 2 \text{ S}_2\text{O}_3^{2-} \text{ (aq)}$, $E^0 = +0,02\text{ V}$
+2. $\text{Cu}^{2+} \text{ (aq)} + 2 \text{ e}^- \rightleftharpoons \text{Cu (s)}$, $E^0 = +0,34\text{ V}$
+3. $\text{Pt}^{2+} \text{ (aq)} + 2 \text{ e}^- \rightleftharpoons \text{Pt (s)}$, $E^0 = +1,20\text{ V}$
+4. $\text{Al}^{3+} \text{ (aq)} + 3 \text{ e}^- \rightleftharpoons \text{Al (s)}$, $E^0 = -1,66\text{ V}$
+5. $\text{Sn}^{2+} \text{ (aq)} + 2 \text{ e}^- \rightleftharpoons \text{Sn (s)}$, $E^0 = -0,14\text{ V}$
+6. $\text{Zn}^{2+} \text{ (aq)} + 2 \text{ e}^- \rightleftharpoons \text{Zn (s)}$, $E^0 = -0,76\text{ V}$]**
+
+BENDASSOLLI, J. A. et al. Procedimentos para a recuperação de Ag de resíduos líquidos e sólidos. **Química Nova**, v. 26, n. 4, 2003 (adaptado).
+
+Das espécies apresentadas, a adequada para essa recuperação é
+
+A) $\text{Cu (s)}$.
+B) $\text{Pt (s)}$.
+C) $\text{Al}^{3+} \text{ (aq)}$.
+D) $\text{Sn (s)}$.
+E) $\text{Zn}^{2+} \text{ (aq)}$.

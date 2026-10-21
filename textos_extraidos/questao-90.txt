@@ -1,0 +1,15 @@
+QUESTÃO 90
+
+As lentes fotocromáticas escurecem quando expostas à luz solar por causa de reações químicas reversíveis entre uma espécie incolor e outra colorida. Diversas reações podem ser utilizadas, e a escolha do melhor reagente para esse fim se baseia em três principais aspectos: (i) o quanto escurece a lente; (ii) o tempo de escurecimento quando exposta à luz solar; e (iii) o tempo de esmaecimento em ambiente sem forte luz solar. A transmitância indica a razão entre a quantidade de luz que atravessa o meio e a quantidade de luz que incide sobre ele.
+
+Durante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados.
+
+**[FIGURA: Tabela com 4 colunas e 6 linhas (incluindo o cabeçalho). Coluna 1: "Amostra", com os valores 1, 2, 3, 4 e 5 nas linhas seguintes. Coluna 2: "Tempo de escurecimento (segundo)", com os valores 20, 40, 20, 50 e 40, respectivamente. Coluna 3: "Tempo de esmaecimento (segundo)", com os valores 50, 30, 30, 50 e 20, respectivamente. Coluna 4: "Transmitância média da lente quando exposta à luz solar (%)", com os valores 80, 90, 50, 50 e 95, respectivamente.]**
+
+Considerando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?
+
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5

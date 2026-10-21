@@ -1,0 +1,13 @@
+QUESTÃO 52
+
+A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.
+
+COELHO, F. A. S. Fármacos e quiralidade. **Cadernos Temáticos de Química Nova na Escola**, São Paulo, n. 3, maio 2001 (adaptado).
+
+Essa malformação congênita ocorre porque esses enantiômeros
+
+A reagem entre si.
+B não podem ser separados.
+C não estão presentes em partes iguais.
+D interagem de maneira distinta com o organismo.
+E são estruturas com diferentes grupos funcionais.

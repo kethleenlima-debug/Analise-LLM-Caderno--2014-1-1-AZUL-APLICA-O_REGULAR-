@@ -1,0 +1,15 @@
+QUESTÃO 54
+
+O biodiesel não é classificado como uma substância pura, mas como uma mistura de ésteres derivados dos ácidos graxos presentes em sua matéria-prima. As propriedades do biodiesel variam com a composição do óleo vegetal ou gordura animal que lhe deu origem, por exemplo, o teor de ésteres saturados é responsável pela maior estabilidade do biodiesel frente à oxidação, o que resulta em aumento da vida útil do biocombustível. O quadro ilustra o teor médio de ácidos graxos de algumas fontes oleaginosas.
+
+**[FIGURA: Tabela com o título "Teor médio do ácido graxo (% em massa)" contendo as colunas "Fonte oleaginosa", "Mirístico (C14:0)", "Palmítico (C16:0)", "Esteárico (C18:0)", "Oleico (C18:1)", "Linoleico (C18:2)" e "Linolênico (C18:3)". Os dados por fonte são: Milho (< 0,1; 11,7; 1,9; 25,2; 60,6; 0,5), Palma (1,0; 42,8; 4,5; 40,5; 10,1; 0,2), Canola (< 0,2; 3,5; 0,9; 64,4; 22,3; 8,2), Algodão (0,7; 20,1; 2,6; 19,2; 55,2; 0,6) e Amendoim (< 0,6; 11,4; 2,4; 48,3; 32,0; 0,9).]**
+
+MA, F.; HANNA, M. A. Biodiesel Production: a review. Bioresource Technology, Londres, v. 70, n. 1, jan. 1999 (adaptado).
+
+Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?
+
+A Milho.
+B Palma.
+C Canola.
+D Algodão.
+E Amendoim.

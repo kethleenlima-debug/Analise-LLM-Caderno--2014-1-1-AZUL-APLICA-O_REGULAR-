@@ -1,0 +1,13 @@
+QUESTÃO 72
+
+O funcionamento dos geradores de usinas elétricas baseia-se no fenômeno da indução eletromagnética, descoberto por Michael Faraday no século XIX. Pode-se observar esse fenômeno ao se movimentar um ímã e uma espira em sentidos opostos com módulo da velocidade igual a $v$, induzindo uma corrente elétrica de intensidade $i$, como ilustrado na figura.
+
+[FIGURA: Diagrama esquemático mostrando um ímã permanente em forma de barra e um solenóide (ou espiras cilíndricas) representando um sistema de indução eletromagnética. À esquerda, um ímã retangular tem o pólo sul (S) à esquerda e o pólo norte (N) à direita, movendo-se para a esquerda com uma velocidade vetorial $\vec{v}$ representada por uma seta apontando para a esquerda. À direita, um cilindro translúcido envolto por várias espiras de fio condutor (solenóide). As espiras estão conectadas na parte inferior a um amperímetro (representado pela letra A dentro de um círculo), abaixo do qual há uma seta indicando o sentido da corrente elétrica induzida $i$ para a direita. Acima do solenóide, há uma seta indicando que as espiras se movem para a direita com velocidade vetorial $\vec{v}$. Linhas de campo magnético $\vec{B}$, com setas apontando para a direita, saem do pólo norte do ímã e atravessam o interior do solenóide.]
+
+A fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a
+
+A) esquerda e o ímã para a direita com polaridade invertida.
+B) direita e o ímã para a esquerda com polaridade invertida.
+C) esquerda e o ímã para a esquerda com mesma polaridade.
+D) direita e manter o ímã em repouso com polaridade invertida.
+E) esquerda e manter o ímã em repouso com mesma polaridade.

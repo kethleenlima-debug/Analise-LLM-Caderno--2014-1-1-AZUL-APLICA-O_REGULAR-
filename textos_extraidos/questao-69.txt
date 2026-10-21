@@ -1,0 +1,19 @@
+QUESTÃO 69
+
+Em um laboratório de genética experimental, observou-se que determinada bactéria continha um gene que conferia resistência a pragas específicas de plantas. Em vista disso, os pesquisadores procederam de acordo com a figura.
+
+[FIGURA: Fluxograma circular ilustrando o processo de engenharia genética em 7 etapas, representadas por setas direcionais: (1) Bactéria; (2) Isolamento do DNA bacteriano, mostrando uma molécula de DNA em dupla hélice; (3) Clonagem do DNA, com a duplicação/amplificação das fitas; (4) Extração do gene de interesse e (5) Fabricação do gene, mostrando um segmento menor de DNA; (6) Inserção do gene nas células do tecido da planta, representado por um hexágono com padrão interno; e (7) Planta desenvolvida, mostrando uma ilustração em preto e cinza de um vegetal de caule longo e folhas.]
+
+Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).
+
+Do ponto de vista biotecnológico, como a planta representada na figura é classificada?
+
+A) Clone.
+
+B) Híbrida.
+
+C) Mutante.
+
+D) Adaptada.
+
+E) Transgênica.

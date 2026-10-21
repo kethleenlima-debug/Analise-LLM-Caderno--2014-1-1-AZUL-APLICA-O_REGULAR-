@@ -1,0 +1,13 @@
+QUESTÃO 67
+
+Para entender os movimentos dos corpos, Galileu discutiu o movimento de uma esfera de metal em dois planos inclinados sem atritos e com a possibilidade de se alterarem os ângulos de inclinação, conforme mostra a figura. Na descrição do experimento, quando a esfera de metal é abandonada para descer um plano inclinado de um determinado nível, ela sempre atinge, no plano ascendente, no máximo, um nível igual àquele em que foi abandonado.
+
+[FIGURA: Ilustração esquemática do experimento de Galileu com dois planos inclinados unidos por suas bases em uma linha horizontal. À direita, uma esfera de metal está posicionada no plano inclinado descendente, alinhada com uma linha tracejada horizontal que indica o "Nível de abandono da esfera". Há indicações de ângulos: à esquerda, o "Ângulo do plano de subida" e, à direita, o "Ângulo do plano de descida". Texto inferior indicando a fonte: Galileu e o plano inclinado. Disponível em: www.fisica.ufpb.br. Acesso em: 21 ago. 2012 (adaptado).]
+
+Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera
+
+A manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.
+B manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.
+C diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.
+D diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.
+E aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.

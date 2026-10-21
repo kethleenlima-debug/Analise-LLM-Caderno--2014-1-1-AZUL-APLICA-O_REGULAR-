@@ -1,0 +1,17 @@
+QUESTÃO 58
+
+A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.
+
+SANTOS, W. L. P.; MÓL, G. S. (Coords.). **Química e sociedade**. São Paulo: Nova Geração, 2005 (adaptado).
+
+A substância capaz de formar as estruturas mencionadas é
+
+A) $\text{C}_{18}\text{H}_{36}$.
+
+B) $\text{C}_{17}\text{H}_{33}\text{COONa}$.
+
+C) $\text{CH}_3\text{CH}_2\text{COONa}$.
+
+D) $\text{CH}_3\text{CH}_2\text{CH}_2\text{COOH}$.
+
+E) $\text{CH}_3\text{CH}_2\text{CH}_2\text{CH}_2\text{OCH}_2\text{CH}_2\text{CH}_2\text{CH}_3$.

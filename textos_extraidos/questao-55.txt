@@ -1,0 +1,19 @@
+QUESTÃO 55
+
+Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observa o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).
+
+[FIGURA: Gráfico de linha cartesiano intitulado eixo y como "Vazão (L/min)" variando de 0 a 14 com intervalos de 2, e eixo x como "Pressão Estática (mca)" variando de 1 a 9 com intervalos de 1. A curva do gráfico começa em (1, 5), passa por (3, 8.5), (6, 12) e termina aproximadamente em (8, 13.5).]
+
+Nessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.
+
+Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a
+
+A 69 120.
+
+B 17 280.
+
+C 11 520.
+
+D 8 640.
+
+E 2 880.

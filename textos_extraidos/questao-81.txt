@@ -1,0 +1,21 @@
+QUESTÃO 81
+
+Os parasitoides (misto de parasitas e predadores) são insetos diminutos que têm hábitos muito peculiares: suas larvas podem se desenvolver dentro do corpo de outros organismos, como mostra a figura. A forma adulta se alimenta de pólen e açúcares. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.
+
+Ciclo de vida de um inseto parasitoide de lagartas
+
+**[FIGURA: Diagrama circular ilustrando o ciclo de vida de um inseto parasitoide de lagartas com quatro etapas conectadas por setas no sentido horário: (A) Na fase adulta, após a cópula, a fêmea procura seu hospedeiro e põe um ou mais ovos dentro de seu corpo (mostra um inseto adulto alado sobre uma lagarta); (B) O ovo eclode e a larva do parasitoide se desenvolve dentro da lagarta (mostra uma lagarta com uma larva visível em seu interior); (C) A larva torna-se pupa, levando o hospedeiro à morte (mostra uma lagarta com a pupa dentro); (D) O parasitoide, após a metamorfose, cava um túnel nos tecidos do hospedeiro e emerge como adulto (mostra o inseto adulto saindo do corpo da lagarta).]**
+
+SANTO, M. M. E.; FARIA, M. L. Parasitoides: insetos benéficos e cruéis. **Ciência Hoje**, v. 49, n. 291, abr. 2012 (adaptado).
+
+A forma larval do parasitoide assume qual papel nessa cadeia alimentar?
+
+A Consumidor primário, pois ataca diretamente uma espécie herbívora.
+
+B Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.
+
+C Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.
+
+D Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.
+
+E Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte.

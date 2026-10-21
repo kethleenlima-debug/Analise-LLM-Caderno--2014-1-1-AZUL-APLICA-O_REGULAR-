@@ -1,0 +1,13 @@
+QUESTÃO 83
+
+A utilização de processos de biorremediação de resíduos gerados pela combustão incompleta de compostos orgânicos tem se tornado crescente, visando minimizar a poluição ambiental. Para a ocorrência de resíduos de naftaleno, algumas legislações limitam sua concentração em até 30 mg/kg para solo agrícola e 0,14 mg/L para água subterrânea. A quantificação desse resíduo foi realizada em diferentes ambientes, utilizando-se amostras de 500 g de solo e 100 mL de água, conforme apresentado no quadro.
+
+**[FIGURA: Tabela com duas colunas e seis linhas, incluindo o cabeçalho. A primeira coluna é intitulada "Ambiente" e apresenta as linhas: "Solo I", "Solo II", "Água I", "Água II" e "Água III". A segunda coluna é intitulada "Resíduo de naftaleno (g)" e apresenta os respectivos valores científicos em notação científica para cada ambiente: $1,0 \times 10^{-2}$ para Solo I, $2,0 \times 10^{-2}$ para Solo II, $7,0 \times 10^{-6}$ para Água I, $8,0 \times 10^{-6}$ para Água II e $9,0 \times 10^{-6}$ para Água III.]**
+
+O ambiente que necessita de biorremediação é o(a)
+
+A solo I.
+B solo II.
+C água I.
+D água II.
+E água III.

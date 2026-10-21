@@ -1,0 +1,18 @@
+QUESTÃO 61
+
+Uma região de Cerrado possui lençol freático profundo, estação seca bem marcada, grande insolação e recorrência de incêndios naturais. Cinco espécies de árvores nativas, com as características apresentadas no quadro, foram avaliadas quanto ao seu potencial para uso em projetos de reflorestamento nessa região.
+
+**[FIGURA: Tabela com 3 linhas e 6 colunas detalhando as características de cinco espécies de árvores. A primeira coluna lista as características ("Superfície foliar" e "Profundidade das raízes"). As colunas seguintes representam "Árvore 1", "Árvore 2", "Árvore 3", "Árvore 4" e "Árvore 5". Os dados preenchidos são:
+- Árvore 1: Superfície foliar coberta por tricomas, Profundidade das raízes Baixa.
+- Árvore 2: Superfície foliar coberta por cera, Profundidade das raízes Alta.
+- Árvore 3: Superfície foliar coberta por cera, Profundidade das raízes Baixa.
+- Árvore 4: Superfície foliar coberta por espinhos, Profundidade das raízes Baixa.
+- Árvore 5: Superfície foliar coberta por espinhos, Profundidade das raízes Alta.]**
+
+Qual é a árvore adequada para o reflorestamento dessa região?
+
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5

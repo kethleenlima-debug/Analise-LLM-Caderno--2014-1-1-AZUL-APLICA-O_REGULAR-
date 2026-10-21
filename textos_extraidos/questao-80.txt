@@ -1,0 +1,13 @@
+QUESTÃO 80
+
+O principal processo industrial utilizado na produção de fenol é a oxidação do cumeno (isopropilbenzeno). A equação mostra que esse processo envolve a formação do hidroperóxido de cumila, que em seguida é decomposto em fenol e acetona, ambos usados na indústria química como precursores de moléculas mais complexas. Após o processo de síntese, esses dois insumos devem ser separados para comercialização individual.
+
+[FIGURA: Esquema reacional em etapas. Na primeira etapa, o cumeno (anel aromático ligado a um grupo isopropila) reage com oxigênio gasoso ($O_2$) na presença de catalisador para formar o hidroperóxido de cumila (anel aromático ligado a um carbono terciário que possui um grupo $-OOH$). Na segunda etapa, o hidroperóxido de cumila reage com água em meio ácido ($H_2O / H_2SO_4$) para produzir fenol (anel aromático ligado a um grupo $-OH$) e acetona (propanona, fórmula estrutural com uma carbonila central dupla O).]
+
+Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a
+
+A filtração.
+B ventilação.
+C decantação.
+D evaporação.
+E destilação fracionada.

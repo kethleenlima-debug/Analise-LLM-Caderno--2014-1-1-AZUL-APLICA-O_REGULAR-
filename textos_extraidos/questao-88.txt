@@ -1,0 +1,21 @@
+QUESTÃO 88
+
+Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).
+
+$$\text{CaCO}_3\text{ (s)} + \text{SO}_2\text{ (g)} \rightarrow \text{CaSO}_3\text{ (s)} + \text{CO}_2\text{ (g)} \quad (1)$$
+
+Por sua vez, o sulfito de cálcio formado pode ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.
+
+$$2\text{ CaSO}_3\text{ (s)} + \text{O}_2\text{ (g)} \rightarrow 2\text{ CaSO}_4\text{ (s)} \quad (2)$$
+
+As massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a $12\text{ g/mol}$, $16\text{ g/mol}$, $32\text{ g/mol}$ e $40\text{ g/mol}$, respectivamente.
+
+BAIRD, C. **Química ambiental**. Porto Alegre: Bookman, 2002 (adaptado).
+
+Considerando um rendimento de $90\%$ no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de
+
+Ⓐ $64$.
+Ⓑ $108$.
+Ⓒ $122$.
+Ⓓ $136$.
+Ⓔ $245$.

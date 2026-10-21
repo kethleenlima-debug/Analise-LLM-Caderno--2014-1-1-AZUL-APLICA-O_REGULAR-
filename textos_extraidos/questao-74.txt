@@ -1,0 +1,17 @@
+QUESTÃO 74
+
+**[FIGURA: Heredograma complexo mostrando três famílias ou gerações interconectadas. No topo à esquerda, há um casal (homem afetado, quadrado preto, e mulher não afetada, círculo branco) que tem cinco filhos (duas mulheres não afetadas, dois homens afetados, uma mulher não afetada e um homem afetado). No topo à direita, outro casal tem quatro filhos. Uma mulher afetada desse segundo grupo cruza com um homem não afetado, gerando uma prole extensa de 11 filhos (uma mistura de afetados e não afetados de ambos os sexos). Uma das mulheres afetadas desta prole casa-se com um homem não afetado, gerando mais 4 filhos (dois homens e uma mulher afetados, e uma mulher não afetada).]**
+
+No heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.
+
+Qual é o padrão de herança observado para essa doença?
+
+A Dominante autossômico, pois a doença aparece em ambos os sexos.
+
+B Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.
+
+C Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.
+
+D Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.
+
+E Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.

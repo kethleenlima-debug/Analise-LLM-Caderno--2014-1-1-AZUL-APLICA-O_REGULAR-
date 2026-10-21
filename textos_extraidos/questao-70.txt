@@ -1,0 +1,11 @@
+QUESTÃO 70
+
+Visando minimizar impactos ambientais, a legislação brasileira determina que resíduos químicos lançados diretamente no corpo receptor tenham pH entre 5,0 e 9,0. Um resíduo líquido aquoso gerado em um processo industrial tem concentração de íons hidroxila igual a $1,0 \times 10^{-10}\text{ mol/L}$. Para atender a legislação, um químico separou as seguintes substâncias, disponibilizadas no almoxarifado da empresa: $\text{CH}_3\text{COOH}$, $\text{Na}_2\text{SO}_4$, $\text{CH}_3\text{OH}$, $\text{K}_2\text{CO}_3$ e $\text{NH}_4\text{Cl}$.
+
+Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?
+
+A) $\text{CH}_3\text{COOH}$
+B) $\text{Na}_2\text{SO}_4$
+C) $\text{CH}_3\text{OH}$
+D) $\text{K}_2\text{CO}_3$
+E) $\text{NH}_4\text{Cl}$

@@ -1,0 +1,13 @@
+QUESTÃO 86
+
+Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina ($\text{C}_5\text{H}_5\text{N}$) é uma das substâncias responsáveis pelo odor característico de peixe podre.
+
+SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. Algo aqui não cheira bem... A química do mau cheiro. **Química Nova na Escola**, v. 33, n. 1, fev. 2011 (adaptado).
+
+A eficiência do uso do vinagre nesse caso se explica pela
+
+A) sobreposição de odor, propiciada pelo cheiro característico do vinagre.
+B) solubilidade da piridina, de caráter ácido, na solução ácida empregada.
+C) inibição da proliferação das bactérias presentes, devido à ação do ácido acético.
+D) degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.
+E) reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.

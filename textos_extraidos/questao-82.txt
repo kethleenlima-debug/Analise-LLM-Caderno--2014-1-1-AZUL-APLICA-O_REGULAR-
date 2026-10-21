@@ -1,0 +1,19 @@
+QUESTÃO 82
+
+Um professor utiliza essa história em quadrinhos para discutir com os estudantes o movimento de satélites. Nesse sentido, pede a eles que analisem o movimento do coelhinho, considerando o módulo da velocidade constante.
+
+**[FIGURA: História em quadrinhos dividida em cinco painéis principais. 
+Painel 1: Mônica, com expressão irritada, arremessa o coelhinho de pelúcia (Sansão) com muita força da direita para a esquerda. O coelhinho voa velozmente sobre a cabeça de Cebolinha, que está assustado, agachado e com as mãos na cabeça. Há linhas cinéticas indicando o movimento rápido com a onomatopeia "ZYUM".
+Painel 2: Cebolinha ri histericamente, com a língua para fora, dizendo "AH! AH! AH! ELOU!". Mônica está parada com uma auréola de frustração/raiva sobre a cabeça e um balão de pensamento contendo "GRUNF!".
+Painel 3 (composto por duas cenas menores): A cena da esquerda mostra uma representação em escala astronômica da Terra vista do espaço, onde o coelhinho viaja em órbita circular ao redor do planeta, como um satélite natural, com a Lua visível ao fundo. A cena da direita mostra Cebolinha distraído de costas; o coelhinho passa voando rapidamente por trás dele da direita para a esquerda, gerando um efeito sonoro "ZUM" e deixando Cebolinha confuso com um ponto de interrogação em um balão de pensamento.
+Painel 4 (composto por duas cenas): A cena da esquerda traz uma grande onomatopeia "PLOF!" indicando o impacto. A cena da última parte mostra Cebolinha no chão, com estrelas girando ao redor da cabeça devido à pancada, dizendo "AH! AH! AH! AH! AH!", enquanto o coelhinho está caído ao lado e Mônica, ao fundo, ri apontando e dizendo "UI! UI! UI!". Assinado "MAURICIO" e "FIM" no canto inferior direito.]**
+
+SOUSA, M. **Cebolinha**, n. 240, jun. 2006.
+
+Desprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é
+
+A nulo.
+B paralelo à sua velocidade linear e no mesmo sentido.
+C paralelo à sua velocidade linear e no sentido oposto.
+D perpendicular à sua velocidade linear e dirigido para o centro da Terra.
+E perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra.

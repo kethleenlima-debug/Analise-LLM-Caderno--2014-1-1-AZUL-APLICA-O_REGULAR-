@@ -1,0 +1,15 @@
+QUESTÃO 26
+
+[FIGURA: Mapa da Região Metropolitana de Belo Horizonte mostrando o saldo do deslocamento (migração pendular) e o fluxo de pessoas entre os municípios. O mapa destaca vários municípios, incluindo Confins, Ribeirão das Neves, Vespasiano, Santa Luzia, Sabará, Belo Horizonte, Contagem, Betim, Ibirité, Nova Lima e Itabirito. A legenda indica o "Saldo do deslocamento" com quatro faixas de valores (representadas por hachuras em cinza e preto): -75 275 a -31 400 (cor escura); -31 399 a 0; 0 a 19 168; e 19 169 a 293 119 (cor mais clara). Há também a indicação do "Fluxo de pessoas" por meio de setas de espessuras variadas que convergem e divergem principalmente de Belo Horizonte, Contagem e municípios vizinhos, representando quatro faixas: 15 000 a 31 400; 31 401 a 58 300; 58 301 a 103 200; além da linha de limite de município.]
+
+**Nota:** O saldo considera apenas as pessoas que se deslocavam para o trabalho e retornavam aos seus municípios diariamente.
+
+BRASIL. IBGE. **Atlas do censo demográfico 2010** (adaptado).
+
+O fluxo migratório representado está associado ao processo de
+
+A fuga de áreas degradadas.
+B inversão da hierarquia urbana.
+C busca por amenidades ambientais.
+D conurbação entre municípios contíguos.
+E desconcentração dos investimentos produtivos.

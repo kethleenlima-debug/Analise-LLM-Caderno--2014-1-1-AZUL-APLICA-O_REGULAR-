@@ -1,0 +1,24 @@
+QUESTÃO 48
+
+A liberação dos gases clorofluorcarbonos (CFCs) na atmosfera pode provocar depleção de ozônio ($\text{O}_3$) na estratosfera. O ozônio estratosférico é responsável por absorver parte da radiação ultravioleta emitida pelo Sol, a qual é nociva aos seres vivos. Esse processo, na camada de ozônio, é ilustrado simplificadamente na figura.
+
+[FIGURA: Diagrama químico esquemático representando o ciclo catalítico de destruição do ozônio por CFCs na atmosfera. 
+No canto superior direito, há uma legenda indicando quatro tipos de átomos por meio de círculos: C (círculo hachurado), F (círculo branco), Cl (círculo cinza médio) e O (círculo preto escuro).
+À esquerda, o Sol emite radiação identificada como $h\nu$ sobre uma molécula de CFC, que é representada por um átomo central de carbono (hachurado) ligado tetraedricamente a três átomos de flúor (brancos), um átomo de cloro (cinza) e um quarto grupo que sofre clivagem. 
+A partir dessa clivagem, um átomo de cloro livre (cinza) interage no ciclo principal. 
+O ciclo central mostra reações em cadeia: 
+1. Um átomo de cloro (cinza) colide com uma molécula de ozônio ($\text{O}_3$, representada por três círculos pretos alinhados), formando monóxido de cloro ($\text{ClO}$, formado por um átomo de cloro cinza e um de oxigênio preto) e liberando uma molécula de oxigênio molecular ($\text{O}_2$, dois círculos pretos).
+2. O monóxido de cloro reage com átomos de oxigênio isolados ($\text{O}$, círculo preto), regenerando o átomo de cloro livre (cinza) e formando outra molécula de oxigênio ($\text{O}_2$).
+As setas curvas indicam o sentido das transformações químicas do ciclo, mostrando o cloro atuando como catalisador.]
+
+Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da
+
+A clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.
+
+B produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.
+
+C oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.
+
+D reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.
+
+E reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.
