@@ -1,0 +1,11 @@
+QUESTÃO 73
+
+Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.
+
+Uma característica da mitocôndria que sustenta essa teoria é a
+
+A capacidade de produzir moléculas de ATP.
+B presença de parede celular semelhante à de procariontes.
+C presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.
+D capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.
+E presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.

@@ -1,0 +1,13 @@
+QUESTÃO 62
+
+Um sistema de pistão contendo um gás é mostrado na figura. Sobre a extremidade superior do êmbolo, que pode movimentar-se livremente sem atrito, encontra-se um objeto. Através de uma chapa de aquecimento é possível fornecer calor ao gás e, com auxílio de um manômetro, medir sua pressão. A partir de diferentes valores de calor fornecido, considerando o sistema como hermético, o objeto elevou-se em valores $\Delta\text{h}$, como mostrado no gráfico. Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e V.
+
+**[FIGURA: A imagem é composta por duas partes principais: à esquerda, um esquema de um sistema de pistão vertical. O cilindro possui uma chapa de aquecimento em sua base, um gás em seu interior, um manômetro acoplado lateralmente na parte inferior e um êmbolo móvel em formato de "T" invertido. Sobre a extremidade superior do êmbolo repousa um bloco retangular rotulado como "Objeto". Há uma indicação de deslocamento vertical $\Delta\text{h}$ na parte superior esquerda do êmbolo. À direita, há um gráfico cartesiano bidimensional com eixo vertical representando "$\Delta\text{h}$" e eixo horizontal representando "Calor fornecido". O gráfico contém duas retas partindo da origem: uma reta superior mais inclinada rotulada como "M" e uma reta inferior menos inclinada rotulada como "V".]**
+
+A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar
+
+A maior pressão de vapor.
+B menor massa molecular.
+C maior compressibilidade.
+D menor energia de ativação.
+E menor capacidade calorífica.

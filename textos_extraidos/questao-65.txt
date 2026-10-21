@@ -1,0 +1,20 @@
+QUESTÃO 65
+
+A forma das moléculas, como representadas no papel, nem sempre é planar. Em um determinado fármaco, a molécula contendo um grupo não planar é biologicamente ativa, enquanto moléculas contendo substituintes planares são inativas.
+
+O grupo responsável pela bioatividade desse fármaco é
+
+**[FIGURA: Opção A mostrando a estrutura química de um anel ciclo-hexano (anel de 6 carbonos saturado, não planar em conformação de cadeira ou simplificado como hexágono) ligado a um substituinte em linha.]**
+Ⓐ
+
+**[FIGURA: Opção B mostrando a estrutura química de um anel de 5 membros contendo um heteroátomo de Enxofre (S), característico do tiofeno, com ligações duplas conjugadas e um substituinte em linha.]**
+Ⓑ
+
+**[FIGURA: Opção C mostrando a estrutura química de um anel de 4 membros (ciclobutadieno) com duas ligações duplas paralelas internas e um substituinte em linha.]**
+Ⓒ
+
+**[FIGURA: Opção D mostrando a estrutura química de um anel aromático de benzeno (hexágono com círculo inscrito representando a deslocalização dos elétrons pi) com um substituinte em linha.]**
+Ⓓ
+
+**[FIGURA: Opção E mostrando a estrutura química de um grupo carbonila (C=O) ligado a um átomo de hidrogênio (H) e a uma cadeia alquílica representada por uma linha.]**
+Ⓔ

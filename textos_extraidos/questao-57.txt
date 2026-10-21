@@ -1,0 +1,13 @@
+QUESTÃO 57
+
+Um sistema de iluminação foi construído com um circuito de três lâmpadas iguais conectadas a um gerador (G) de tensão constante. Esse gerador possui uma chave que pode ser ligada nas posições A ou B.
+
+[FIGURA: Diagrama esquemático de um circuito elétrico contendo um gerador de tensão constante (representado por um círculo com a letra "G", polaridade positiva "+" na parte superior e negativa "-" na parte inferior) e três lâmpadas idênticas representadas por círculos com a letra "X" e numeradas como 1, 2 e 3. A lâmpada 1 está posicionada no ramo superior esquerdo. A lâmpada 3 está posicionada no ramo intermediário. A lâmpada 2 está posicionada no ramo superior direito. O circuito possui uma chave com um terminal móvel conectado ao polo positivo do gerador e dois terminais fixos denominados A e B. O terminal A conecta-se a um nó que deriva para a lâmpada 2 e para o trecho entre as lâmpadas 1 e 3. O terminal B conecta-se diretamente à extremidade da lâmpada 2. O polo negativo do gerador conecta-se ao retorno comum do circuito.]
+
+Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição
+
+A) B, pois a corrente será maior nesse caso.
+B) B, pois a potência total será maior nesse caso.
+C) A, pois a resistência equivalente será menor nesse caso.
+D) B, pois o gerador fornecerá uma maior tensão nesse caso.
+E) A, pois a potência dissipada pelo gerador será menor nesse caso.
